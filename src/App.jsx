@@ -12,7 +12,6 @@ function App() {
      <Skills />
      <Project />
      <Skills />
-
     </div>
   );
 }
