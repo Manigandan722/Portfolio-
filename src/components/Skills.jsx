@@ -4,7 +4,7 @@ import css from '../assets/techlogo/CSS.svg'
 import js from '../assets/techlogo/js.svg'
 import react from '../assets/techlogo/React.svg'
 import node from '../assets/techlogo/Node.svg'
-import mongoDb from '../assets/techlogo/mongoDb.svg'
+import mongoDb from '../assets/techlogo/MongoDb.svg'
 import Tailwind from '../assets/techlogo/Tailwind.svg'
 
 
