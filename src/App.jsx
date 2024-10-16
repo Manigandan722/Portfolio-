@@ -6,6 +6,7 @@ import Mani from './assets/Mani_profile.jpeg'
 import NavBar from "./components/NavBar";
 import HeroSection from "./components/HeroSection";
 import ScrollParallax from "./components/ScrollParallax";
+import Contact from "./components/Contact";
 
 
 function App() {
@@ -15,10 +16,11 @@ function App() {
      {/* <Header /> */}
      <NavBar />
      <HeroSection />
-     <ScrollParallax />
-     {/* <About /> */}
+     {/* <ScrollParallax /> */}
+     <About />
      <Skills />
      <Project />
+     <Contact />
     </div>
   );
 }
