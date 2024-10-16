@@ -1,5 +1,6 @@
 import React from 'react';
-import { FaEnvelope, FaPhone, FaGithub, FaLinkedin, FaInstagram } from 'react-icons/fa';
+import { FaEnvelope, FaPhone, FaGithub, FaLinkedin, FaInstagram , FaTwitter } from 'react-icons/fa';
+import { FaXTwitter } from "react-icons/fa6";
 
 const Contact = () => {
   return (
@@ -42,8 +43,8 @@ const Contact = () => {
             <FaGithub className="text-4xl mx-auto mb-4 text-gray-400" />
             <h3 className="text-2xl font-bold mb-2">GitHub</h3>
             <p className="text-gray-300">
-              <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="hover:underline">
-                github.com/yourusername
+              <a href="https://github.com/Manigandan722" target="_blank" rel="noopener noreferrer" className="hover:underline">
+                github.com/Manigandan722
               </a>
             </p>
           </div>
@@ -53,8 +54,8 @@ const Contact = () => {
             <FaLinkedin className="text-4xl mx-auto mb-4 text-blue-400" />
             <h3 className="text-2xl font-bold mb-2">LinkedIn</h3>
             <p className="text-gray-300">
-              <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" className="hover:underline">
-                linkedin.com/in/yourusername
+              <a href="https://www.linkedin.com/in/manigandan-e-360979249/" target="_blank" rel="noopener noreferrer" className="hover:underline">
+              Manigandan E
               </a>
             </p>
           </div>
@@ -64,8 +65,19 @@ const Contact = () => {
             <FaInstagram className="text-4xl mx-auto mb-4 text-pink-400" />
             <h3 className="text-2xl font-bold mb-2">Instagram</h3>
             <p className="text-gray-300">
-              <a href="https://instagram.com/yourusername" target="_blank" rel="noopener noreferrer" className="hover:underline">
-                instagram.com/yourusername
+              <a href="https://www.instagram.com/_.manigandan_/profilecard/?igsh=dzQ3bHZlOGYzZW1u" target="_blank" rel="noopener noreferrer" className="hover:underline">
+                instagram.com/_.manigandan_
+              </a>
+            </p>
+          </div>
+
+          {/* X (Twitter) */}
+          <div className="bg-gray-800 p-6 rounded-lg shadow-lg text-center hover:shadow-2xl transition-shadow duration-300">
+            <FaXTwitter className="text-4xl mx-auto mb-4 text-blue-400" />
+            <h3 className="text-2xl font-bold mb-2">Twitter</h3>
+            <p className="text-gray-300">
+              <a href="https://x.com/Mani38042090?s=09" target="_blank" rel="noopener noreferrer" className="hover:underline">
+                x.com/Mani38042090
               </a>
             </p>
           </div>
