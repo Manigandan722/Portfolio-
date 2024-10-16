@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+  scroll-behavior: smooth;
+}
+
 
 .fade-in {
   animation: fadeIn 1s ease-in-out;
