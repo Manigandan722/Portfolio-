@@ -4,7 +4,7 @@ const NavBar = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   return (
-    <nav className="fixed top-0 w-full p-5 bg-transparent text-white flex justify-between items-center z-20">
+    <nav className="w-full p-5 bg-gray-700 text-white flex justify-between items-center ">
       <h1 className="text-xl font-bold">Manigandan</h1>
 
       {/* Hamburger Menu for mobile view */}
