@@ -39,7 +39,7 @@ const projects = [
       'A web application demonstrating basic CRUD (Create, Read, Update, Delete) operations using the MERN stack. Features include data management and dynamic form handling.',
     technologies: ['MongoDB', 'Express', 'React', 'Node.js'],
     liveDemo: '', // Replace with actual link
-    github: 'https://github.com/yourusername/mern-crud', // Replace with actual link
+    github: 'https://github.com/Manigandan722/CRUD_MERN', // Replace with actual link
   },
   {
     title: 'Image Server',
