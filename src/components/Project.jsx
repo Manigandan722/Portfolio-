@@ -6,7 +6,7 @@ const projects = [
     description:
       'A comprehensive software platform providing solutions for enterprise resource planning and business management. Includes modules for accounting, HR, and customer relations.',
     technologies: ['React', 'Node.js', 'MongoDB', 'Express', 'AWS Amplify'],
-    liveDemo: 'https://gateway-software-sollution.vercel.app/', // Replace with actual link
+    liveDemo: 'https://www.gatewaysoftwaresolutions.com/', // Replace with actual link
     github: 'https://github.com/Manigandan722/gateway_software_sollution', // Replace with actual link
   },
   {
